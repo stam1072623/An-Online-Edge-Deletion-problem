@@ -1,0 +1,1 @@
+g++ -o online_edge_deletions -O3 -std=c++0x main.cpp -I/usr/incl
